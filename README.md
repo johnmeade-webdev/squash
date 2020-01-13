@@ -26,7 +26,7 @@ assignment information, priority, status, appropriate tags (sorting), dueBy date
 
 *5)* App will include some kind of aggregate data visualization.
 
-####Progress####
+#### Progress
 
 I am currently looking at the database design. The following is a representation of what I 
 think is needed thus far. I will begin wireframing for front-end UI next.
