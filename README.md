@@ -1,7 +1,7 @@
-#Sqaush
-##find your bugs and squash them
+# Sqaush 
+## find your bugs and squash them
 
-###Product Summary###: 
+### Product Summary: 
 Squash will be a bug tracking application. It will have team capabilities as there will be 
 Administrator and User roles. There will be a simple interface allowing all users to view
 bug information, and an interface for admin to access assignment tools, etc.
