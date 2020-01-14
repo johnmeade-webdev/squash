@@ -15,6 +15,7 @@ Sqaush will be adapted in different stacks to show versatility. It will also be 
 Electron so it can stand alone as an application.
 
 **User Stories:**
+
 *1)* Squash will be secured via authentication/authorization (AuthO?).
 
 *2)* Bugs can be entered into the tracker. Each bug will have a title and description, along with
@@ -28,7 +29,7 @@ assignment information, priority, status, appropriate tags (sorting), dueBy date
 
 #### Progress
 
-I am currently looking at the database design. The following is a representation of what I 
-think is needed thus far. I will begin wireframing for front-end UI next.
+I am currently making adjustments to the DB design as I work on mockups for non-admin users.
 
 ![alt text](./planning/db_diagram.png "DB diagram")
+![alt text](./planning/mockup_user_open_bug.png "User MockUp")
